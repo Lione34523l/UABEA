@@ -1,4 +1,4 @@
-name: Build UABEA Windows
+name: Build UABEA Windows lol
 
 on:
   push:
